@@ -153,26 +153,7 @@ CALL availseats(2, '2025-09-20', 3);
 CALL cancel(1005);
 ```
 
----
 
-## 🔮 Future Enhancements  
-- ✅ Integrate a **React + Node.js frontend**  
-- ✅ Add **live train tracking**  
-- ✅ Implement **AI-powered seat predictions**  
-- ✅ Introduce **dynamic pricing based on demand**  
-
----
-
-## 👨‍💻 Contributors  
-
-| Name | Roll Number | Contribution |
-|------|------------|-------------|
-| Pitta Tanuj | 2301AI29 | DB Design & Procedures |
-| Member 2 | 2301AI54 | Triggers & Booking Module |
-| Member 3 | 2301CS32 | Payment & Refunds |
-| Member 4 | 2301CS64 | Seat Allocation & Reporting |
-
----
 
 ## 🖼 Project Preview  
 
